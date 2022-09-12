@@ -1,4 +1,3 @@
-from calendar import month
 import datetime
 import numpy as np
 from sys import argv
